@@ -95,10 +95,26 @@ Next, in the "Add roles & features" wizard set-up screen that says "Add features
 <br /># configure-ad
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Qm9oNI6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next, in the "Add roles & features" wizard set-up process in the screen that says "Select Server Roles" make sure the "Active Directory Domain Services" box is checked.
+</p>
+<br /># configure-ad
+
+<p>
+<img src="https://i.imgur.com/EQ2YPMB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next, back on the "Windows Server Manager" dashboard go to the yellow triangle alert on the upper right>click "Promote this server to a domain controller". This is how we finish installing Active Directory on this server and turn it into a Domain Controller.
+</p>
+<br /># configure-ad
+
+<p>
+<img src="https://i.imgur.com/EOfk3JJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next, in the "Active Directory Domain Services Configuration Wizard" select the "Add new forrest" tab>specify the root domain name for our selected server which in this case we will name "mydomain.com". 
 </p>
 <br /># configure-ad
 
@@ -118,3 +134,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 <br /># configure-ad
 
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br /># configure-ad
