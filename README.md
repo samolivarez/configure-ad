@@ -119,6 +119,38 @@ Next, in the "Active Directory Domain Services Configuration Wizard" select the 
 <br /># configure-ad
 
 <p>
+<img src="https://i.imgur.com/JUPlgNZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next, in the "Active Directory Wizard" set-up process; if the previous steps were done correctly; in the "Prerequisites Check" screen that appears there should now be a "green arrow" followed by the message "All prerequisite checks passed. Click "install" to begin installation" as the above image shows. Press "install".
+</p>
+<br /># configure-ad
+
+<p>
+<img src="https://i.imgur.com/6oIEPc7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Once Active Directory is finished installing we can now go to our newly installed Active Directory Users & Computers>mydomain.com and create as needed "organizational units" inside Active Directory. "Organizational units" amount to basically "folders" we can create inside Active Directory. As the above image shows we have created 2 organizational Units called _EMPLOYEES AND _ADMINS which help us to group/separate employees and admins.
+</p>
+<br /># configure-ad
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br /># configure-ad
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br /># configure-ad
+
+<p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
