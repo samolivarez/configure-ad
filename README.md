@@ -77,6 +77,31 @@ Next, after having opened up a command line in Client-1 VM and typing the "ping 
 </p>
 <br /># configure-ad
 
+
+<p>
+<img src="https://i.imgur.com/I0jNT7R.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next, we begin the installation of Active Directory which starts off with going to: DC-1 VM>Windows Server Manager>Add roles & features>then on the "select a server" tab make sure the proper server is chosen as the above image shows we have our DC-1 server selected because that is where we are installing Active Direcory.
+</p>
+<br /># configure-ad
+
+<p>
+<img src="https://i.imgur.com/NAXLcdG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next, in the "Add roles & features" wizard set-up screen that says "Add features that are required for Active Directory Domain Services?" make sure to click the "Add Features" tab and click the "include management tools" box as well.
+</p>
+<br /># configure-ad
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br /># configure-ad
+
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
