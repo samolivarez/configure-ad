@@ -135,18 +135,18 @@ Once Active Directory is finished installing we can now go to our newly installe
 <br /># configure-ad
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/xSeCbLu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next, after the _ADMINS organiztional unit is created nside our Active Directory for our domain controller called "mydomin.com"; we can add "admins" to the selected organizational unit (OU). The above image shows we are adding an "admin" named "Jane Doe" with her logon credentials.
 </p>
 <br /># configure-ad
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vSSuHkj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next, we may add "employees" to our organizatinal unit (OU) called _EMPLOYEES which simulates a common real world admin task. As you can see in the above image for this tutorial we have added numerous random employee names created using a script that autogenterated fictituous names to our _EMPLOYEE OU. 
 </p>
 <br /># configure-ad
 
